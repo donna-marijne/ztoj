@@ -1,0 +1,13 @@
+{
+  "name": "ztoj",
+  "version": "0.0.1",
+  "description": "Convert a zip file to a JSON file.",
+  "main": "src/index.js",
+  "bin": "src/cli.js",
+  "author": "Donna Marijne",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "yauzl": "^2.10.0"
+  }
+}
